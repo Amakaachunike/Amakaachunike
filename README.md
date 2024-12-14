@@ -36,6 +36,6 @@ Business Intelligence And Data Analysis By Co-oporate Finance Institute
 
 Aside data science, I also enjoy:
 
-**Research Writing**: Writing Articles
+- **Research Writing**: Writing Articles
 
 
