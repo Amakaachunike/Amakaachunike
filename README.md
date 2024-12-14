@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amaka Achunike
 
 ## Data Scientist
@@ -34,3 +35,6 @@ advancements and also collaborating on projects that can assist professional gro
 Aside Data science, I also enjoy:
 
 **Research Writing**: Writing Articles.
+=======
+
+>>>>>>> 3c8f13a5d005b871d9d382ad0eda1299e9bae595
