@@ -18,6 +18,7 @@ advancements and also collaborating on projects that can assist professional gro
 
 **Python**: Skilled at developing predictive models and carrying out statistical 
   analysis
+
 **SQL**: Expert in  writing queries in data-based management
 
 ### Data Visualisation
