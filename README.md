@@ -16,12 +16,12 @@ advancements and also collaborating on projects that can assist professional gro
 
 ### Programming And Analytical Skills
 
-**Python**: Skilled at developing predictive models and carrying out statistical analysis
-**SQL**: Expert in  writing queries in data-based management
+**Python**- Skilled at developing predictive models and carrying out statistical analysis
+**SQL**- Expert in  writing queries in data-based management
 
 ### Data Visualisation
 
-**Tools**: Tableau, PowerBi, Matplotlib, seaborn. creates dashboards using data
+**Tools**- Tableau, PowerBi, Matplotlib, seaborn. creates dashboards using data
 
 ## Certifications
 
@@ -31,9 +31,9 @@ advancements and also collaborating on projects that can assist professional gro
 
 ## Hobbies and interest
 
-Aside data science, I also enjoy:
+Aside data science, I also enjoy,
 
-**Research Writing**: Writing Articles.
+**Research Writing**-Writing Articles.
 
 
 
