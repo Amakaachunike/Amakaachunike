@@ -17,14 +17,14 @@ growth
 
 ### **Programming And Analytical Skills**
 
-- **Python**- Skilled at developing predictive models and carrying out statistical 
+- **Python**-Skilled at developing predictive models and carrying out statistical 
   analysis.
 
-- **SQL**: Expert in  writing queries in database management.
+- **SQL**-Expert in  writing queries in database management.
 
 ### **Data Visualisation**
 
-- **Tools**- Tableau, PowerBi, Matplotlib, seaborn.
+- **Tools**-Tableau, PowerBi, Matplotlib, seaborn.
 
 ## **Certifications**
 
@@ -36,5 +36,5 @@ _Business Intelligence And Data Analysis By Co-prate Finance Institute_
 
 _Aside Data science, I also enjoy_
 
-- **Research Writing**: Writing Articles.
+- **Research Writing**-Writing Articles.
 
