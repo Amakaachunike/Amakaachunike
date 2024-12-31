@@ -1,8 +1,8 @@
-# Amaka Achunike
+# **Amaka Achunike**
 
-## Data Scientist
+## **Data Scientist**
 
-## Summary
+### **Summary**
 
 Hi, my name is Chika Amaka, I am a seasoned data scientist with years of
 experience in transforming datasets into actionable results.
@@ -13,45 +13,28 @@ current trends. I am committed to active learning of new technologies or
 advancements and also collaborating on projects that can assist professional 
 growth
 
-## Technical skills
+## **Technical skills**
 
-### Programming And Analytical Skills
+### **Programming And Analytical Skills**
 
 - **Python**: Skilled at developing predictive models and carrying out statistical 
   analysis
 <<<<<<< HEAD
-- **SQL**: Expert in  writing queries in data base management
+- **SQL**: Expert in  writing queries in database management
 
-### Data Visualisation
+### **Data Visualisation**
 
-- **Tools**: Tableau,PowerBi,Matplotlib,seaborn. creates dashboards using data
-=======
+- **Tools**: Tableau, PowerBi, Matplotlib, seaborn
 
-- **SQL**: Expert in  writing queries in data-based management
+## **Certifications**
 
-### Data Visualisation
+_Google Data Analytics Professional Certificate_
 
-- **Tools**: Tableau, PowerBi, Matplotlib, seaborn. creates dashboards using data
->>>>>>> f6deccb197b9cb4d008c53644488aba757464755
+_Business Intelligence And Data Analysis By Co-prate Finance Institute_
 
-## Certifications
+## **Hobbies and interest**
 
-Google Data Analytics Professional Certificate
-
-<<<<<<< HEAD
-Business Intelligence And Data Analysis By Coporate Finance institute
-=======
-Business Intelligence And Data Analysis By Co-oporate Finance Institute
->>>>>>> f6deccb197b9cb4d008c53644488aba757464755
-
-## Hobbies and interest
-
-Aside data science, I also enjoy:
+_Aside Data science, I also enjoy_:
 
 - **Research Writing**: Writing Articles
 
-<<<<<<< HEAD
-- **Research Writing**: Writing Articles.
-=======
-
->>>>>>> f6deccb197b9cb4d008c53644488aba757464755
