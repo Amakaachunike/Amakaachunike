@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Amaka Achunike
 
 ## Data Scientist
@@ -17,24 +16,22 @@ advancements and also collaborating on projects that can assist professional gro
 
 ### Programming And Analytical Skills
 
-**Python**: Skilled at developing predictive models and carrying out statistical analysis
-**SQL**: Expert in  writing queries in data base management
+- **Python**: Skilled at developing predictive models and carrying out statistical 
+  analysis
+- **SQL**: Expert in  writing queries in data base management
 
 ### Data Visualisation
 
-**Tools**: Tableau,PowerBi,Matplotlib,seaborn. creates dashboards using data
+- **Tools**: Tableau,PowerBi,Matplotlib,seaborn. creates dashboards using data
 
 ## Certifications
 
-### Google Data Analytics Professional Certificate
+Google Data Analytics Professional Certificate
 
-### Business Intelligence And Data Analysis By Coporate Finance institute
+Business Intelligence And Data Analysis By Coporate Finance institute
 
 ## Hobbies and interest
 
 Aside Data science, I also enjoy:
 
-**Research Writing**: Writing Articles.
-=======
-
->>>>>>> 3c8f13a5d005b871d9d382ad0eda1299e9bae595
+- **Research Writing**: Writing Articles.
